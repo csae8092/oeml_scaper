@@ -130,6 +130,5 @@ dmypy.json
 
 *.ipynb
 /data
-info.csv
 secret.sh
 oeml_data.zip
